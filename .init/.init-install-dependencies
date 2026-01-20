@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/focus-timer-and-stats-201711-201720/pomodoro_frontend"
+}
